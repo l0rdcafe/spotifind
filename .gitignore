@@ -1,0 +1,5 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+.id
+spotifind-38d88652-9ec8-414d-a47d-cd9e4b3b9e58-archive.ipa
